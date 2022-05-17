@@ -14,7 +14,7 @@ To Do:
 - [ ] 2. Center div `hero-content` in "Hero" section
 - [ ] 3. Change `Hero` button `:hover` colors.
 - [ ] 4. Change photo in `About Me` section.
-- [ ] 5. BONUS: Add a `CONTACT` section.
+- [ ] 5. BONUS: Add a `Contact` section.
 
 ---
 
@@ -26,6 +26,6 @@ To Do:
 
 3. Change the `:hover` background and border color for the class `.btn` in the div `hero-content` to the color: `#74b44a`. 
 
-4. Switch out cat photo in `ABOUT ME` section, with a photo of your own choosing. You must download and add the photo to the `img` folder 
+4. Switch out cat photo in `About Me` section, with a photo of your own choosing. You must download and add the photo to the `img` folder 
 
-5. BONUS: Add a `CONTACT` section below the `PROJECTS` section. Add contact information (real/fake use your best judgement), social media, links, embed a google map, etc..
+5. BONUS: Add a `Contact` section below the `Projects` section. Add contact information (real/fake use your best judgement), social media, links, embed a google map, etc.
