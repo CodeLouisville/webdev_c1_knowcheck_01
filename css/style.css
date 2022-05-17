@@ -155,7 +155,7 @@ a:hover, a:active {
     display: block;
 } */
 
-.hero-container .btn, .hero-container .btn:visited  {
+.hero-content .btn, .hero-content .btn:visited  {
     width: 100%;
     max-width: 260px;
     background: #f08527;
@@ -172,12 +172,12 @@ a:hover, a:active {
     display: block;
 }
 
-.hero-container .btn:focus {
+.hero-content .btn:focus {
     background: #333333;
     color: #F1F1F1;
     border: 2px solid #333333;
 }
-.hero-container .btn:hover, .hero-container .btn:active {
+.hero-content .btn:hover, .hero-content .btn:active {
     background: #333333;
     color: #F1F1F1;
     border: 2px solid #666666;
@@ -239,7 +239,7 @@ a:hover, a:active {
 
 section h2 {
     font-family: 'Roboto Condensed', sans-serif;
-    size: 48px;
+    font-size: 48px;
     text-transform: uppercase;
 }
 
