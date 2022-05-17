@@ -4,6 +4,8 @@
 Welcome to your first knowledge check for Code Louisville's Web Development Track. Please reveiw the following list of changes and corrections to the following site. The following assesment is `Open Book` meaning you may use the internet, books, and notes to arrive at your answers. 
 
 
+Please complete the following list of items, but also feel free to customize the images and text to your liking. 
+
 ---
 
 To Do:
